@@ -203,12 +203,6 @@ Para mais ajuda, consulte `SETUP.md`.
 
 ---
 
-## 👨‍💼 Autor
-
-**Marcos Vinicius** - Trabalho de Universidade
-
----
-
 ## 📄 Licença
 
 Este projeto é fornecido como está para fins educacionais.
